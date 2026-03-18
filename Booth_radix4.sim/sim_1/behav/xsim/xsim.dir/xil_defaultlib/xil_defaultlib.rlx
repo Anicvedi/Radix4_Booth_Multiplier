@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/Anirudh/Booth/Booth.srcs/sim_1/new/tb_booth_radix4_csa_multiplier_wave.v,1770997978,verilog,,,,tb_booth_radix4_csa_multiplier_wave,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/Anirudh/Booth_radix4/Booth_radix4.sim/sim_1/behav/xsim/glbl.v,1756381829,verilog,,,,glbl,,,,,,,,
+C:/Users/Anirudh/Downloads/source codes2/source codes2/booth_encoder_radix4.v,1773825855,verilog,,C:/Users/Anirudh/Downloads/source codes2/source codes2/booth_radix4_csa_multiplier.v,,booth_encoder_radix4,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/Anirudh/Downloads/source codes2/source codes2/booth_radix4_csa_multiplier.v,1773825855,verilog,,C:/Users/Anirudh/Downloads/source codes2/source codes2/csa3.v,,booth_radix4_csa_multiplier,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,
+C:/Users/Anirudh/Downloads/source codes2/source codes2/csa3.v,1773825855,verilog,,C:/Users/Anirudh/Booth/Booth.srcs/sim_1/new/tb_booth_radix4_csa_multiplier_wave.v,,csa3,,,../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef,,,,,

@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Anirudh/Booth_radix4/Booth_radix4.sim/sim_1/impl/timing/xsim/tb_booth_radix4_csa_multiplier_wave_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module booth_radix4_csa_multiplier
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Anirudh/Booth/Booth.srcs/sim_1/new/tb_booth_radix4_csa_multiplier_wave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_booth_radix4_csa_multiplier_wave

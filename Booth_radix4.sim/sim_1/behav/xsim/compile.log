@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Anirudh/Downloads/source codes2/source codes2/booth_encoder_radix4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module booth_encoder_radix4
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Anirudh/Downloads/source codes2/source codes2/booth_radix4_csa_multiplier.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module booth_radix4_csa_multiplier
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Anirudh/Downloads/source codes2/source codes2/csa3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module csa3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Anirudh/Booth/Booth.srcs/sim_1/new/tb_booth_radix4_csa_multiplier_wave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_booth_radix4_csa_multiplier_wave
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Anirudh/Booth_radix4/Booth_radix4.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

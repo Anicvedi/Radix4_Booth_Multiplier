@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef" \
+"tb_booth_radix4_csa_multiplier_wave_time_impl.v" \
+"../../../../../../Booth/Booth.srcs/sim_1/new/tb_booth_radix4_csa_multiplier_wave.v" \
+
+# Do not sort compile order
+nosort

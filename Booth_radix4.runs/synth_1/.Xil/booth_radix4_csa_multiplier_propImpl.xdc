@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:{C:/Users/Anirudh/Downloads/source codes2/source codes2/constraints.xdc} rfile:{../../../../Downloads/source codes2/source codes2/constraints.xdc} id:1} [current_design]
+set_property src_info {type:XDC file:1 line:6 export:INPUT save:INPUT read:READ} [current_design]
+set_switching_activity -toggle_rate 0.000 -static_probability 0.100 [get_nets rst_IBUF]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_switching_activity -toggle_rate 0.000 -static_probability 0.000 [get_nets rst_IBUF]

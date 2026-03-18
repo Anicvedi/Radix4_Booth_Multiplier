@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef" \
+"../../../../../Downloads/source codes2/source codes2/booth_encoder_radix4.v" \
+"../../../../../Downloads/source codes2/source codes2/booth_radix4_csa_multiplier.v" \
+"../../../../../Downloads/source codes2/source codes2/csa3.v" \
+"../../../../../Booth/Booth.srcs/sim_1/new/tb_booth_radix4_csa_multiplier_wave.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

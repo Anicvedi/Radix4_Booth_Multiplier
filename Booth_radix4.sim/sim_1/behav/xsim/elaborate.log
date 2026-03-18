@@ -1,0 +1,21 @@
+Vivado Simulator v2025.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/AMDDesignTools/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_booth_radix4_csa_multiplier_wave_behav xil_defaultlib.tb_booth_radix4_csa_multiplier_wave xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/Anirudh/Downloads/source codes2/source codes2/booth_encoder_radix4.v" Line 1. Module booth_encoder_radix4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Anirudh/Downloads/source codes2/source codes2/booth_encoder_radix4.v" Line 1. Module booth_encoder_radix4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Anirudh/Downloads/source codes2/source codes2/booth_encoder_radix4.v" Line 1. Module booth_encoder_radix4 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/Anirudh/Downloads/source codes2/source codes2/booth_encoder_radix4.v" Line 1. Module booth_encoder_radix4 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.booth_encoder_radix4
+Compiling module xil_defaultlib.csa3
+Compiling module xil_defaultlib.booth_radix4_csa_multiplier
+Compiling module xil_defaultlib.tb_booth_radix4_csa_multiplier_w...
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_booth_radix4_csa_multiplier_wave_behav
